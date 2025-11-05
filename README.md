@@ -28,3 +28,12 @@ By merging emotional computation, architectural reasoning, and digital art, this
 ---
 
 ## 🗂️ Structure  
+[User Input]           → text, voice, image, emotion log  
+     ↓
+[Emotional Analysis]   → NLP sentiment mapping, emotion spectrum extraction  
+     ↓
+[Reflection Visualization]  → fragment-based visual generation, color/light encoding  
+     ↓
+[Resonance Mapping]    → similarity graph, emotional pattern clustering  
+     ↓
+[Existence Archive]    → time-series storage, personal evolution dashboard
