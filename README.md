@@ -5,8 +5,6 @@
 
 ---
 
-![mirror-banner](https://github.com/yourusername/Mirror-Universe/assets/banner.png)
-
 </div>
 
 ## 🌌 Overview  
